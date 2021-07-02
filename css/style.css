@@ -37,6 +37,7 @@ li {
 
 .side {
     background-color: #F2F2F2;
+    min-width: 375px;
 }
 
 .side>* {
